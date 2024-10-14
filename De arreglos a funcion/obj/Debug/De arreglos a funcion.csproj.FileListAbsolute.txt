@@ -1,0 +1,6 @@
+C:\Users\guill\source\repos\clase 17\Sesion 17\De arreglos a funcion\obj\Debug\De arreglos a funcion.csproj.AssemblyReference.cache
+C:\Users\guill\source\repos\clase 17\Sesion 17\De arreglos a funcion\obj\Debug\De_arreglos_a_funcion.Form1.resources
+C:\Users\guill\source\repos\clase 17\Sesion 17\De arreglos a funcion\obj\Debug\De_arreglos_a_funcion.Formulario.Form1.resources
+C:\Users\guill\source\repos\clase 17\Sesion 17\De arreglos a funcion\obj\Debug\De_arreglos_a_funcion.Properties.Resources.resources
+C:\Users\guill\source\repos\clase 17\Sesion 17\De arreglos a funcion\obj\Debug\De arreglos a funcion.csproj.GenerateResource.cache
+C:\Users\guill\source\repos\clase 17\Sesion 17\De arreglos a funcion\obj\Debug\De arreglos a funcion.csproj.CoreCompileInputs.cache
